@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+span{
+    background-color: white;
+    border-radius: 20px;
+    padding: 1px;
+    font-weight:bold;
+    color: #354BF7;
+}
+
+article:nth-child(1){
+    background-color: #354BF7;
+    color: white;
+    padding: 10px;
+}
+
+h1{
+    margin: 0;
+    padding: 10px;
+}
+
+ul li{
+    background-color: #354BF7;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+ul section h2{
+    background-color: #C70039;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+a{
+    background-color: #C70039;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+/*calendario*/
+
+ul div:nth-child(1){
+    background-color: #C70039;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+ul div:nth-child(2){
+    width: 20px;
+    height: 20px;
+    background-color: #354BF7;
+}
